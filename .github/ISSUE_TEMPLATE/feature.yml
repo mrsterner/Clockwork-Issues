@@ -1,0 +1,9 @@
+name: Issue
+description: File a bug report
+body:
+  - type: input
+    attributes:
+      label: A description of the feature
+    validations:
+      required: true
+  - type: input
