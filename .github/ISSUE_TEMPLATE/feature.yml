@@ -6,4 +6,3 @@ body:
       label: A description of the feature
     validations:
       required: true
-  - type: input
